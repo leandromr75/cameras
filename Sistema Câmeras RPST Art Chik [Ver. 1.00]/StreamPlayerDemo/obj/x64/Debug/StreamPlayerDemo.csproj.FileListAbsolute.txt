@@ -1,0 +1,105 @@
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\StreamPlayerDemo.exe.config
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\avcodec-57.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\avdevice-57.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\avfilter-6.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\avformat-57.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\avutil-55.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\postproc-54.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\swresample-2.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\swscale-4.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\Accord.dll.config
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\StreamPlayerDemo.exe
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\StreamPlayerDemo.pdb
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\Accord.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\Accord.Video.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\WebEye.Controls.WinForms.StreamPlayerControl.dll
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\Accord.xml
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\Accord.Video.xml
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\bin\x64\Debug\WebEye.Controls.WinForms.StreamPlayerControl.pdb
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.Properties.Resources.resources
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.exe
+C:\Users\TI\Desktop\WinFormsSource\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.pdb
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\avcodec-57.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\avdevice-57.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\avfilter-6.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\avformat-57.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\avutil-55.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\postproc-54.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\swresample-2.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\swscale-4.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\Accord.dll.config
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\Accord.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\Accord.Video.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\WebEye.Controls.WinForms.StreamPlayerControl.dll
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\Accord.xml
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\Accord.Video.xml
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\WebEye.Controls.WinForms.StreamPlayerControl.pdb
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.Properties.Resources.resources
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\DVR_ArtChik.exe.config
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\DVR_ArtChik.exe
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\bin\x64\Debug\DVR_ArtChik.pdb
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\obj\x64\Debug\DVR_ArtChik.exe
+C:\Users\TI\Desktop\teste\StreamPlayerDemo\obj\x64\Debug\DVR_ArtChik.pdb
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\avcodec-57.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\avdevice-57.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\avfilter-6.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\avformat-57.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\avutil-55.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\postproc-54.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\swresample-2.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\swscale-4.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\Accord.dll.config
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\DVR_ArtChik.exe.config
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\DVR_ArtChik.exe
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\DVR_ArtChik.pdb
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\Accord.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\Accord.Video.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\System.Xml.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\WebEye.Controls.WinForms.StreamPlayerControl.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\Accord.xml
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\Accord.Video.xml
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\bin\x64\Debug\WebEye.Controls.WinForms.StreamPlayerControl.pdb
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.Properties.Resources.resources
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\obj\x64\Debug\DVR_ArtChik.exe
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\obj\x64\Debug\DVR_ArtChik.pdb
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\DVR_ArtChik.exe.config
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\obj\x64\Debug\DVR_ArtChik.exe
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\obj\x64\Debug\DVR_ArtChik.pdb
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\avcodec-57.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\avdevice-57.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\avfilter-6.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\avformat-57.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\avutil-55.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\postproc-54.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\swresample-2.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\swscale-4.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\Accord.dll.config
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\DVR_ArtChik.exe
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\DVR_ArtChik.pdb
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\Accord.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\Accord.Video.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\System.Xml.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\WebEye.Controls.WinForms.StreamPlayerControl.dll
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\Accord.xml
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\Accord.Video.xml
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\bin\x64\Debug\WebEye.Controls.WinForms.StreamPlayerControl.pdb
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.Properties.Resources.resources
+C:\Users\TI\Desktop\Sistema Câmeras RPST Art Chik [Ver. 1.00]\StreamPlayerDemo\obj\x64\Debug\StreamPlayerDemo.csproj.GenerateResource.Cache
